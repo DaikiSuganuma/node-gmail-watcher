@@ -1,0 +1,16 @@
+{
+  "name": "gmail-watcher",
+  "description": "Gmail Watcher",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "async": "^0.9.0",
+    "iconv": "^2.1.6",
+    "inbox": "^1.1.59",
+    "mailparser": "^0.4.9"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0"
+  }
+}

@@ -1,0 +1,6 @@
+[{
+    "name"       : "gmail-watcher",
+    "script"     : "./app.js",
+    "instances"  : "1",
+    "exec_mode"  : "cluster_mode"
+}]
